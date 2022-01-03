@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SOP-4)(type KiCad)(uri ${KIPRJMOD}/SOP-4.pretty)(options "")(descr ""))
+  (lib (name MyFuses)(type KiCad)(uri ${KIPRJMOD}/MyFuses.pretty)(options "")(descr ""))
+)

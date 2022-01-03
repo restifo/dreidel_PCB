@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC1G17
+D Non-inverting single Schmitt trigger buffer
+$ENDCMP
+#
+$CMP HMHAA280
+D SOP4, AC/DC Optocoupler, Vce 80V
+K NPN AC DC Optocoupler
+F http://www.mouser.com/ds/2/149/HMHA2801-1010567.pdf
+$ENDCMP
+#
+#End Doc Library
